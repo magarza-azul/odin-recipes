@@ -12,3 +12,10 @@ img {
     height: auto;
     width: 750px;
 }
+
+ul { 
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
